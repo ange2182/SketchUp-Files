@@ -1,5 +1,3 @@
 # SketchUp-Files
 
-This folder will contain the models I've made in SketchUp. For each model or scene, it will have a folder that contains multiple images from different angles of the 3D model or scene.
-
-Have a tutorial folder (the house and cube) where I add the images, but also state, hey this was made by following along to an online tutorial.
+This folder will contain the models I've made in SketchUp. For each model or scene, there will be a folder that contains a .stl file of the model along with images of the model from different angles.
